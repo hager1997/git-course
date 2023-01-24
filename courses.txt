@@ -18,8 +18,7 @@ data
 ggggg
 data
 gggg
-<<<<<<< HEAD
 data
-=======
 hello
 >>>>>>> 908a3b580c58ca5465fe5afe053b30482baa8939
+data
